@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/ptdecker/code/jdbitest"
+		},
+		{
+			"path": "src/main/java/org/ptodd/jdbitest"
+		},
+		{
+			"path": "src/test/java/org/ptodd/jdbitest"
+		}
+	]
+}
